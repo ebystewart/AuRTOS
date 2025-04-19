@@ -1,5 +1,5 @@
 # EVOS
-An Open Source RTOS for Automotive (EV) Applications.
+An Open Source RTOS for Automotive Applications.
 
      The project is aimed at providing software resources for the development of automotive and industrial solutions based on renewable, non-pollutant and green technologies. I hope upon maturity, this project could encourage more enthusiast to try out newer solutions with a reliable, well written Real Time Operating System, kick-start and cut-down costs on commercial solutions.
      
